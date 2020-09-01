@@ -17,7 +17,6 @@ const findMaxPath = (triangle) => {
         currLine--
     }
     console.log('Max Sum:>> ', intArr[0][0]);
-    return intArr[0][0]
 }
 
 
